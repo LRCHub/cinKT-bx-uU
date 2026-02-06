@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Karma",
+  "base_artist": "Fumage",
+  "createdAt": "2026-02-06T15:18:05.723695Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Karma",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Karma_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Karma",
+      "artist": "Kidd G",
+      "has_synced": true,
+      "path": "select/02_Karma_Kidd_G.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Karma Police",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/03_Karma_Police_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "El Karma de Vivir al Sur",
+      "artist": "Charly Garcia",
+      "has_synced": true,
+      "path": "select/04_El_Karma_de_Vivir_al_Sur_Charly_Garcia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Karma Hotel",
+      "artist": "Spooks",
+      "has_synced": false,
+      "path": "select/05_Karma_Hotel_Spooks.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Karma Man",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/06_Karma_Man_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Karma Man - Stereo Mix",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/07_Karma_Man_-_Stereo_Mix_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Heart's Filthy Lesson - Good Karma Mix by Tim Simenon",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/08_The_Heart's_Filthy_Lesson_-_Good_Karma_Mix_by_Tim_Simenon_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Hearts Filthy Lesson (Good Karma Mix by Tim Simenon)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/09_The_Hearts_Filthy_Lesson_(Good_Karma_Mix_by_Tim_Simenon)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Karma Police",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/10_Karma_Police_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Karma Police",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/11_Karma_Police_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Karma Police (Electric Lady Studios)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/12_Karma_Police_(Electric_Lady_Studios)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Karma Police (Live)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/13_Karma_Police_(Live)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Karma Police (Paris 1998)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/14_Karma_Police_(Paris_1998)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Planet Telex (Karma Sunra Mix)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/15_Planet_Telex_(Karma_Sunra_Mix)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bad Karma (feat. Joan Jett)",
+      "artist": "Miley Cyrus feat. Joan Jett & The Blackhearts",
+      "has_synced": true,
+      "path": "select/16_Bad_Karma_(feat._Joan_Jett)_Miley_Cyrus_feat._Joan_Jett_&_The_Blackhearts.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Karma",
+      "artist": "Fumage",
+      "has_synced": false,
+      "path": "select/pl_01_Karma_Fumage.txt"
+    }
+  ]
+}
